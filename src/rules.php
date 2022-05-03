@@ -11,5 +11,10 @@ return [
     'void_return' => false,
     'concat_space' => [
         'spacing' => 'one',
-    ]
+    ],
+    'yoda_style' => [
+        'equal' => false,
+        'identical' => false,
+        'less_and_greater' => false,
+    ],
 ];
