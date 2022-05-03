@@ -9,4 +9,7 @@ return [
     'native_function_invocation' => false,
     'declare_strict_types' => false,
     'void_return' => false,
+    'concat_space' => [
+        'spacing' => 'one',
+    ]
 ];
