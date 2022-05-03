@@ -1,0 +1,14 @@
+{
+  "name": "yrodchyn/php-cs-fixer-rules",
+  "description": "Yura's shared PHP style rules for PHP-CS-Fixer",
+  "license": "MIT",
+  "require": {
+    "php": "^7.4 | ^8.0 | ^8.1",
+    "friendsofphp/php-cs-fixer": "^2.0"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  }
+}
